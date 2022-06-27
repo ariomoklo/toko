@@ -1,0 +1,23 @@
+{
+  "name": "@ariomoklo/toko",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "serve": "astro build && node server.mjs"
+  },
+  "devDependencies": {
+    "@astrojs/node": "^0.1.2",
+    "@astrojs/svelte": "^0.2.0",
+    "@astrojs/tailwind": "^0.2.1",
+    "astro": "^1.0.0-beta.56",
+    "svelte": "^3.46.4"
+  },
+  "dependencies": {
+    "h3": "^0.7.10",
+    "listhen": "^0.2.13"
+  }
+}
