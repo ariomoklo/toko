@@ -13,7 +13,9 @@
     "@astrojs/node": "^0.1.2",
     "@astrojs/svelte": "^0.2.0",
     "@astrojs/tailwind": "^0.2.1",
+    "@tailwindcss/typography": "^0.5.2",
     "astro": "^1.0.0-beta.56",
+    "daisyui": "^2.17.0",
     "svelte": "^3.46.4"
   },
   "dependencies": {
